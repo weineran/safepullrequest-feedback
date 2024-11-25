@@ -19,16 +19,16 @@ Example:
 **Expected behavior**
 What _should_ happen?
 
-** Actual behavior**
+**Actual behavior**
 What actually _does_ happen?
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
 **Your Platform**
- - OS: 
- - Browser and version: 
- - Additional info about your platform: 
+ - **OS**: 
+ - **Browser and version**: 
+ - **Additional info about your platform**: 
 
 **Additional context**
 Add any other context about the problem here.
